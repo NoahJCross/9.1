@@ -1,0 +1,14 @@
+.app__questions {
+  padding: 20px;
+}
+
+.app__questions-container {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
+}
+
+.app__questions-container h1 {
+  text-wrap: nowrap;
+}
